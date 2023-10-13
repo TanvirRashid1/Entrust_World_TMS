@@ -1,0 +1,3 @@
+﻿1>------ Rebuild All started: Project: EnTrustWorld_Edu, Configuration: Debug Any CPU ------
+1>  EnTrustWorld_Edu -> D:\Second\Project\Project with db and video\Tutor Management system\EnTrust World Edu\EnTrustWorld_Edu\EnTrustWorld_Edu\bin\EnTrustWorld_Edu.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
